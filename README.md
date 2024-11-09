@@ -2,6 +2,9 @@
 
 A real-time visualization dashboard for parking spot monitoring built with React.
 
+<img width="1002" alt="Screenshot 2024-11-09 at 04 54 04" src="https://github.com/user-attachments/assets/fd78cfa7-70d5-4122-903d-8ff0c62077e5">
+
+
 ## Features
 
 - Real-time parking occupancy monitoring
